@@ -543,8 +543,8 @@ function library:CreateWindow(WName)
 	end
 	pcall(function()
 		game:GetService("StarterGui"):SetCore("SendNotification", {
-        	Title = "Synta Lib V1",
-        	Text = "Made by Synta#0929",
+        	Title = "KylnDantas",
+        	Text = "Project: Beatdown",
         	Duration = 5
    	 	})
 	end)
